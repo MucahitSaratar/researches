@@ -11,3 +11,5 @@
 - [Oscommer 2.3.4.1. authenticated remote code execution](https://medium.com/@Mr.deadbeef.py/oscommer-2-3-4-1-rce-vulnerability-904260f2ed9a)
 
 - [Steghide Stack-based buffer overflow](https://github.com/StefanoDeVuono/steghide/issues/12)
+
+- [ESP Unusable Heap-Based Buffer Overflow](https://medium.com/@Mr.deadbeef.py/esp-unusable-heap-based-buffer-overlow-ba6e8d99f813)
